@@ -4,7 +4,11 @@
     a[href*="https"]{
         color: darkslateblue;
         text-decoration: none;
-        text-weight: bolder;
+        font-weight: bolder;
+    }
+
+    a[href*="https"]:hover{
+        color: lightsteelblue;
     }
 
     main {
@@ -13,6 +17,8 @@
 
     h1 { 
         font-weight: bold;
+        font-family: sans-serif;
+        font-size: 3em;
     }
 
     #navigation li {
@@ -37,14 +43,30 @@
         padding: 50px;
     }
 
+    article img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 75%;
+    }
     .coffeetable{ 
         border-width: 5px;
         border-color: darkslateblue;
         border-style: solid;
         padding: 10px;
         margin: 20px;
+        justify-content: center;
     }
 
     .coffeetable td{ 
-        margin: 5px;
+        margin-right: 10px;
     }
+
+   main {
+       padding: 20px;
+       margin: 20px;
+       background-color: darkslategray;
+   }
+
+   h2 {
+       color: lightslategray;
+   }
