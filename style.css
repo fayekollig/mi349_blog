@@ -32,6 +32,11 @@
 
     #navigation a:hover {
         font-style: italic;
+        color: #33535a;
+    }
+
+    #navigation a:visited {
+        color: lightgray;
     }
 
     .blogtitle {
@@ -65,12 +70,14 @@
     }
 
    main {
-       padding: 20px;
+       padding-left: auto;
+       padding-right: auto;
+       width: 75%;
        background-color: #33535a;
    }
 
    h2 {
-       color: lightslategray;
+       color: lightgray;
        font-size: 2.5em;
        font-style: italic;
    }
@@ -82,4 +89,8 @@
 
    body {
        background-color: lightslategray;
+   }
+
+   header {
+       color: lightgray;
    }
