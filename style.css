@@ -34,4 +34,17 @@
     article {
         background-color: lightgray;
         margin: 40px 10px 40px 10px;
+        padding: 50px;
+    }
+
+    .coffeetable{ 
+        border-width: 5px;
+        border-color: darkslateblue;
+        border-style: solid;
+        padding: 10px;
+        margin: 20px;
+    }
+
+    .coffeetable td{ 
+        margin: 5px;
     }
