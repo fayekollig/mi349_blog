@@ -11,10 +11,6 @@
         color: lightsteelblue;
     }
 
-    main {
-        font-family: sans-serif;
-    }
-
     h1 { 
         font-weight: bold;
         font-family: sans-serif;
@@ -56,11 +52,11 @@
         margin-top: 10px;
         margin-bottom: 0px;
         border-color: #33535a;
-        border-width: 20px;
+        border-width: 10px;
         border-style: solid;
     }
     .coffeetable{ 
-        border-width: 5px;
+        border-width: 10px;
         border-color: #21505a;
         border-style: solid;
         padding: 10px;
@@ -78,7 +74,7 @@
        margin-left: auto;
        margin-right: auto;
        width: 75%;
-       padding: 50px;
+       padding: 20px;
        background-color: lightgray;
        border-color: #33535a;
        border-width: 20px;
@@ -86,18 +82,18 @@
    }
 
    h2 {
-       color: lightgray;
+       color: #33535a;
        font-size: 2.5em;
        font-style: italic;
    }
 
    form {
        margin: 10px;
-       padding: 10px;
    }
 
    body {
        background-color: lightslategray;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    }
 
    header {
