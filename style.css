@@ -71,10 +71,9 @@
         width: 50%;
         margin-top: 10px;
         margin-bottom: 0px;
-        border-color: #33535a;
-        border-width: 10px;
-        border-style: solid;
+        border:none;
     }
+
     .coffeetable{ 
         border-width: 10px;
         border-color: #21505a;
@@ -136,5 +135,5 @@
    }
 
    .favoritethings {
-       padding-left: 20px;
+       padding-left: 25px;
    }
