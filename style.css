@@ -59,10 +59,8 @@
     article {
         background-color: lightgray;
         margin: 10px;
-        padding: 50px;
-        border-color: #33535a;
-        border-width: 10px;
-        border-top-style: solid;
+        padding-left: 50px;
+        padding-right: 50px;
     }
 
     article img {
