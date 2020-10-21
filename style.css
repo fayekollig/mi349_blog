@@ -22,21 +22,29 @@
         float: left;
     }
 
+    #navigation{
+        float: right;
+    }
+
     #navigation li {
         list-style-type: none;
+        float: inherit;
     }
 
     #navigation a {
         text-decoration: none;
+        float: inherit;
     }
 
     #navigation a:hover {
         font-style: italic;
         color: #33535a;
+        float: inherit;
     }
 
     #navigation a:visited {
         color: lightgray;
+        float: inherit;
     }
 
     .blogtitle {
@@ -45,11 +53,10 @@
 
     article {
         background-color: lightgray;
-        margin: 40px 10px 40px 10px;
+        margin: 10px;
         padding: 50px;
         border-color: #33535a;
         border-width: 20px;
-        border-top-style: solid;
         border-bottom-style: solid;
     }
 
@@ -112,8 +119,10 @@
        text-align: center;
        padding-top: 20px;
        padding-bottom: 20px;
+       color: lightgray;
    }
    .headshot {
        float: left;
        width: 20%;
+       margin: 10px;
    }
