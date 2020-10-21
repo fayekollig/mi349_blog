@@ -2,8 +2,11 @@
     modifying both the layout and typography*/
 
     a[href*="https"]{
-        color: red;
+        color: darkslateblue;
+        text-decoration: none;
+        text-weight: bolder;
     }
+
     main {
         font-family: sans-serif;
     }
@@ -30,4 +33,5 @@
 
     article {
         background-color: lightgray;
+        margin: 40px 10px 40px 10px;
     }
