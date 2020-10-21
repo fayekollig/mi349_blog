@@ -9,9 +9,8 @@
         font-weight: bold;
     }
 
-    #navigation {
+    #navigation li {
         list-style-type: none;
-        float: left;
     }
 
     #navigation a {
