@@ -21,7 +21,7 @@
 
     .logo {
         float: left;
-        margin-bottom: 100px;
+        margin-bottom: 50px;
         margin-right: 50px;
     }
 
@@ -98,6 +98,8 @@
        border-color: #33535a;
        border-width: 20px;
        border-style: solid;
+       position: relative;
+       top: 50px;
    }
 
    h2 {
