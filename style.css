@@ -53,10 +53,15 @@
         margin-left: auto;
         margin-right: auto;
         width: 50%;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        border-color: #33535a;
+        border-width: 20px;
+        border-style: solid;
     }
     .coffeetable{ 
         border-width: 5px;
-        border-color: #33535a;
+        border-color: #21505a;
         border-style: solid;
         padding: 10px;
         margin: 20px;
@@ -70,10 +75,14 @@
     }
 
    main {
-       padding-left: auto;
-       padding-right: auto;
+       margin-left: auto;
+       margin-right: auto;
        width: 75%;
-       background-color: #33535a;
+       padding: 50px;
+       background-color: lightgray;
+       border-color: #33535a;
+       border-width: 20px;
+       border-style: solid;
    }
 
    h2 {
