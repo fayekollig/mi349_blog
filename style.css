@@ -61,6 +61,7 @@
         margin: 10px;
         padding-left: 50px;
         padding-right: 50px;
+        margin-bottom: 50px
     }
 
     article img {
@@ -133,5 +134,5 @@
    }
 
    .favoritethings {
-       padding-left: 25px;
+       padding-left: 35px;
    }
