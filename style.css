@@ -1,0 +1,31 @@
+/*Ten rule sets in total; 1 type, 1 class, 1 ID, 1 attribute,
+    modifying both the layout and typography*/
+
+    [type="text"] {
+        font-family: sans-serif;
+    }
+
+    h1 { 
+        font-weight: bold;
+    }
+
+    #navigation {
+        list-style-type: none;
+        float: left;
+    }
+
+    #navigation a {
+        text-decoration: none;
+    }
+
+    #navigation a:hover {
+        font-style: italic;
+    }
+
+    .blogtitle {
+        font-style: italic;
+    }
+
+    article {
+        background-color: lightgray;
+    }
