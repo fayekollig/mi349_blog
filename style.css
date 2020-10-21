@@ -2,7 +2,7 @@
     modifying both the layout and typography*/
 
     a[href*="https"]{
-        color: darkslateblue;
+        color: #33535a;
         text-decoration: none;
         font-weight: bolder;
     }
@@ -47,33 +47,39 @@
     article img {
         margin-left: auto;
         margin-right: auto;
-        width: 75%;
+        width: 50%;
     }
     .coffeetable{ 
         border-width: 5px;
-        border-color: darkslateblue;
+        border-color: #33535a;
         border-style: solid;
         padding: 10px;
         margin: 20px;
-        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 75%;
     }
 
     .coffeetable td{ 
-        margin-right: 10px;
+        padding-right: 20px;
     }
 
    main {
        padding: 20px;
-       margin: 20px;
-       background-color: darkslateblue;
+       background-color: #33535a;
    }
 
    h2 {
        color: lightslategray;
        font-size: 2.5em;
+       font-style: italic;
    }
 
    form {
        margin: 10px;
        padding: 10px;
+   }
+
+   body {
+       background-color: lightslategray;
    }
