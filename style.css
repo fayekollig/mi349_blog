@@ -79,8 +79,7 @@
     article img {
         margin-left: auto;
         margin-right: auto;
-
-        width: 50%;
+        width: 75%;
         margin-top: 10px;
         margin-bottom: 0px;
         border:none;
@@ -139,7 +138,6 @@
        background-color: lightslategray;
        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    }
-
  
    #signup {
        text-align: center;
@@ -152,9 +150,16 @@
        background-color: white;
        padding: 5px;
        width: 25%;
+   }   
+
+   .headshot {
+       width: 100%;
+       margin: 5px;
    }
 
-   
+   .headshotBlock p {
+       margin: 0px;
+   }
 
    .favoritethings {
        margin-left: 35px;
