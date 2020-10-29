@@ -114,6 +114,14 @@
        display: flex;
    }
 
+   .favorites {
+       flex: 1;
+   }
+
+   .about {
+       flex: 2;
+   }
+
    h2 {
        color: #33535a;
        font-size: 2.5em;
