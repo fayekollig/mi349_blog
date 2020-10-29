@@ -114,12 +114,12 @@
        display: flex;
    }
 
-   .favorites {
+   aside {
        flex: 2;
        padding: 40px;
    }
 
-   .about {
+    div {
        flex: 3;
    }
 
