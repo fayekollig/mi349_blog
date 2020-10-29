@@ -150,10 +150,11 @@
        background-color: white;
        padding: 5px;
        width: 25%;
+       margin: 10px;
    }   
 
    .headshot {
-       width: 100%;
+       width: 80%;
        margin: 5px;
    }
 
