@@ -123,6 +123,8 @@
 
    header {
        color: lightgray;
+       position: sticky;
+       top:0;
    }
 
    #signup {
