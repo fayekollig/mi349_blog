@@ -116,6 +116,7 @@
 
    .favorites {
        flex: 2;
+       padding: 40px;
    }
 
    .about {
