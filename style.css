@@ -149,13 +149,12 @@
    }
    .headshotBlock {
        float: left;
-   }
-   
-   .headshot {
+       background-color: white;
+       padding: 5px;
        width: 25%;
-       margin-right: 25px;
-       margin-bottom: 10px;
    }
+
+   
 
    .favoritethings {
        margin-left: 35px;
