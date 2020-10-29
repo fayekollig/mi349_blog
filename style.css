@@ -79,6 +79,7 @@
     article img {
         margin-left: auto;
         margin-right: auto;
+
         width: 50%;
         margin-top: 10px;
         margin-bottom: 0px;
@@ -119,7 +120,7 @@
        padding: 40px;
    }
 
-    div {
+    section {
        flex: 3;
    }
 
@@ -146,9 +147,12 @@
        padding-bottom: 20px;
        color: lightgray;
    }
-   .headshot {
+   .headshotBlock {
        float: left;
-       width: 10%;
+   }
+   
+   .headshot {
+       width: 25%;
        margin-right: 25px;
        margin-bottom: 10px;
    }
