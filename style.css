@@ -6,6 +6,7 @@
         position: sticky;
         top: 0;
         background-color: lightslategray;
+        z-index: 1;
     }
  
     a[href*="https"]{
