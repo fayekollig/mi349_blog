@@ -115,11 +115,11 @@
    }
 
    .favorites {
-       flex: 1;
+       flex: 2;
    }
 
    .about {
-       flex: 2;
+       flex: 3;
    }
 
    h2 {
