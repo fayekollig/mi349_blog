@@ -147,7 +147,7 @@
    }
    .headshotBlock {
        float: left;
-       background-color: white;
+       background-color: lightslategray;
        padding: 5px;
        width: 25%;
        margin: 10px;
