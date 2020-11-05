@@ -44,24 +44,24 @@
         padding: 0px;
     }
 
-    #navigation li {
+    .navigation li {
         list-style-type: none;
         float: inherit;
         font-size: 1.5em;
     }
 
-    #navigation a {
+    .navigation a {
         text-decoration: none;
         float: inherit;
     }
 
-    #navigation a:hover {
+    .navigation a:hover {
         font-style: italic;
         color: #33535a;
         float: inherit;
     }
 
-    #navigation a:visited {
+    .navigation a:visited {
         color: lightgray;
         float: inherit;
     }
@@ -182,9 +182,11 @@
 
    @media screen and (max-width: 700px) {
    
-    header {
+    header, .logo, #navigation {
         display: block;
+        float: none;
     }
+
 
     main {
         margin-top: 100px;
