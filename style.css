@@ -182,13 +182,13 @@
 
    @media screen and (max-width: 700px) {
    
-    header, .logo, #navigation {
+    header, .logo, .navigation {
         display: block;
         float: none;
         margin: 0;
     }
 
-    #navigation {
+    .navigation li {
         float: left;
         padding: 20px;
     }
