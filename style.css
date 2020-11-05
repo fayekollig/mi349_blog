@@ -8,6 +8,15 @@
         background-color: lightslategray;
         z-index: 10;
     }
+
+    @media screen and (max-width: 700px) {
+        .logo {
+           display: block;
+        }
+        #navigation {
+            float: left;
+        }
+ }
  
     a[href*="https"]{
         color: #33535a;
@@ -128,6 +137,8 @@
            display: block;
        }
    }
+
+  
 
    h2 {
        color: #33535a;
