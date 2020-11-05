@@ -9,15 +9,7 @@
         z-index: 10;
     }
 
-    @media screen and (max-width: 700px) {
-        .logo {
-           float: right;
-        }
     
-        main {
-            margin-top: 100px;
-        }
- }
  
     a[href*="https"]{
         color: #33535a;
@@ -188,4 +180,13 @@
        margin:0px;
    }
 
-  
+   @media screen and (max-width: 700px) {
+   
+    header {
+        display: block;
+    }
+
+    main {
+        margin-top: 100px;
+    }
+}
