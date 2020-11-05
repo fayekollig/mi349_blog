@@ -200,6 +200,10 @@
         padding: 10px;
     }
 
+    article {
+        padding: 0;
+    }
+
     .headshotBlock {
         float: none;
         display: block;
