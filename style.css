@@ -13,10 +13,7 @@
         .logo {
            float: none;
         }
-        #navigation li{
-            float: none;
-            display: block;
-        }
+    
         main {
             margin-top: 100px;
         }
