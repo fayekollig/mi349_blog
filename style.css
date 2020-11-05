@@ -199,6 +199,8 @@
     .headshotBlock {
         float: none;
         display: block;
+        width: 100%;
+        
     }
 
 }
