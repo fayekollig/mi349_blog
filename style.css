@@ -12,10 +12,11 @@
     @media screen and (max-width: 700px) {
         .logo {
            float: none;
+           display: inline-block;
         }
         #navigation {
             float: none;
-            display: block;
+           
         }
         main {
             margin-top: 100px;
