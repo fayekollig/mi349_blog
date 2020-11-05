@@ -15,7 +15,9 @@
         }
         #navigation {
             float: left;
-            margin-bottom: 100px;
+        }
+        main {
+            margin-top: 100px;
         }
  }
  
