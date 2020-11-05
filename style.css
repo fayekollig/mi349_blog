@@ -190,7 +190,10 @@
 
     .navigation li {
         float: left;
-        padding: 20px;
+        padding: 0px 20px;
+    }
+    main {
+        margin-top: 50px;
     }
 
 }
