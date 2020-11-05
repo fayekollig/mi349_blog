@@ -197,7 +197,6 @@
     }
     main {
         margin-top: 50px;
-        padding: 5px;
     }
 
     .headshotBlock {
@@ -210,6 +209,7 @@
 
     aside, form {
         margin: 0px;
+        width: 100%;
     }
 
 
