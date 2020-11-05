@@ -186,6 +186,8 @@
         display: block;
         float: none;
         margin: 0;
+        position: static;
+        text-align: center;
     }
 
     .navigation li {
@@ -200,7 +202,8 @@
         float: none;
         display: block;
         width: 100%;
-        
+        margin: 5px;
+        padding: 5px;
     }
 
 }
