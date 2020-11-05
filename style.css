@@ -188,8 +188,9 @@
         margin: 0;
     }
 
-
-    main {
-        margin-top: 100px;
+    #navigation {
+        float: left;
+        padding: 20px;
     }
+
 }
