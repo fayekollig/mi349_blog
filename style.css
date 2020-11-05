@@ -207,14 +207,18 @@
     .headshotBlock {
         float: none;
         display: block;
-        width: 100%;
+        width: 80%;
         margin: 5px;
         padding: 5px;
     }
 
-    aside, form, .favorites, .favoritethings {
+    aside, form, section, .favorites, .favoritethings {
         margin: 0px;
         width: 100%;
+    }
+
+    .favorites, .favoritethings {
+        padding: 0;
     }
 
     .coffeetable {
