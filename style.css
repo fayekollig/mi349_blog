@@ -185,6 +185,7 @@
     header, .logo, #navigation {
         display: block;
         float: none;
+        margin: 0;
     }
 
 
