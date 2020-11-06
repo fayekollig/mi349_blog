@@ -180,7 +180,7 @@
        margin:0px;
    }
 
-   @media screen and (max-width: 700px) {
+   @media screen and (max-width: 400px) {
    
     header, .logo, .navigation {
         display: block;
